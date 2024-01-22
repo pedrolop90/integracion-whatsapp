@@ -1,0 +1,136 @@
+[
+    {
+      body: 'You said :Esto está mal, no funciona.\n' +
+        " Configure your WhatsApp Sandbox's Inbound URL to change this message.",
+      numSegments: '1',
+      direction: 'outbound-api',
+      from: 'whatsapp:+14155238886',
+      to: 'whatsapp:+573005762320',
+      dateUpdated: 2024-01-22T01: 40: 11.000Z,
+      price: '0.00000',
+      errorMessage: null,
+      uri: '/2010-04-01/Accounts/ACc70f7e642e060d7041965af62b01ae58/Messages/SMb07e655af9cebcf29296cc1964b1d442.json',
+      accountSid: 'ACc70f7e642e060d7041965af62b01ae58',
+      numMedia: '0',
+      status: 'delivered',
+      messagingServiceSid: null,
+      sid: 'SMb07e655af9cebcf29296cc1964b1d442',
+      dateSent: 2024-01-22T01: 40: 10.000Z,
+      dateCreated: 2024-01-22T01: 40: 09.000Z,
+      errorCode: null,
+      priceUnit: 'USD',
+      apiVersion: '2010-04-01',
+      subresourceUris: {
+        media: '/2010-04-01/Accounts/ACc70f7e642e060d7041965af62b01ae58/Messages/SMb07e655af9cebcf29296cc1964b1d442/Media.json',
+        feedback: '/2010-04-01/Accounts/ACc70f7e642e060d7041965af62b01ae58/Messages/SMb07e655af9cebcf29296cc1964b1d442/Feedback.json'
+        }
+    },
+    {
+      body: 'You said :5.\n' +
+        " Configure your WhatsApp Sandbox's Inbound URL to change this message.",
+      numSegments: '1',
+      direction: 'outbound-api',
+      from: 'whatsapp:+14155238886',
+      to: 'whatsapp:+573005762320',
+      dateUpdated: 2024-01-22T01: 40: 03.000Z,
+      price: '0.00000',
+      errorMessage: null,
+      uri: '/2010-04-01/Accounts/ACc70f7e642e060d7041965af62b01ae58/Messages/SMb5116abe7fd0c6e0e7efc279537fc2fc.json',
+      accountSid: 'ACc70f7e642e060d7041965af62b01ae58',
+      numMedia: '0',
+      status: 'read',
+      messagingServiceSid: null,
+      sid: 'SMb5116abe7fd0c6e0e7efc279537fc2fc',
+      dateSent: 2024-01-22T01: 38: 23.000Z,
+      dateCreated: 2024-01-22T01: 38: 23.000Z,
+      errorCode: null,
+      priceUnit: 'USD',
+      apiVersion: '2010-04-01',
+      subresourceUris: {
+        media: '/2010-04-01/Accounts/ACc70f7e642e060d7041965af62b01ae58/Messages/SMb5116abe7fd0c6e0e7efc279537fc2fc/Media.json',
+        feedback: '/2010-04-01/Accounts/ACc70f7e642e060d7041965af62b01ae58/Messages/SMb5116abe7fd0c6e0e7efc279537fc2fc/Feedback.json'
+        }
+    },
+    {
+      body: 'You said :W.\n' +
+        " Configure your WhatsApp Sandbox's Inbound URL to change this message.",
+      numSegments: '1',
+      direction: 'outbound-api',
+      from: 'whatsapp:+14155238886',
+      to: 'whatsapp:+573005762320',
+      dateUpdated: 2024-01-22T01: 38: 22.000Z,
+      price: '0.00000',
+      errorMessage: null,
+      uri: '/2010-04-01/Accounts/ACc70f7e642e060d7041965af62b01ae58/Messages/SM79057fe29de01788770b651be6625289.json',
+      accountSid: 'ACc70f7e642e060d7041965af62b01ae58',
+      numMedia: '0',
+      status: 'read',
+      messagingServiceSid: null,
+      sid: 'SM79057fe29de01788770b651be6625289',
+      dateSent: 2024-01-22T01: 38: 21.000Z,
+      dateCreated: 2024-01-22T01: 38: 20.000Z,
+      errorCode: null,
+      priceUnit: 'USD',
+      apiVersion: '2010-04-01',
+      subresourceUris: {
+        media: '/2010-04-01/Accounts/ACc70f7e642e060d7041965af62b01ae58/Messages/SM79057fe29de01788770b651be6625289/Media.json',
+        feedback: '/2010-04-01/Accounts/ACc70f7e642e060d7041965af62b01ae58/Messages/SM79057fe29de01788770b651be6625289/Feedback.json'
+        }
+    },
+    {
+      body: 'You said :1.\n' +
+        " Configure your WhatsApp Sandbox's Inbound URL to change this message.",
+      numSegments: '1',
+      direction: 'outbound-api',
+      from: 'whatsapp:+14155238886',
+      to: 'whatsapp:+573005762320',
+      dateUpdated: 2024-01-22T01: 38: 21.000Z,
+      price: '0.00000',
+      errorMessage: null,
+      uri: '/2010-04-01/Accounts/ACc70f7e642e060d7041965af62b01ae58/Messages/SM162e8c9410f28c753fd3a03cf5c2cf2d.json',
+      accountSid: 'ACc70f7e642e060d7041965af62b01ae58',
+      numMedia: '0',
+      status: 'read',
+      messagingServiceSid: null,
+      sid: 'SM162e8c9410f28c753fd3a03cf5c2cf2d',
+      dateSent: 2024-01-22T01: 38: 20.000Z,
+      dateCreated: 2024-01-22T01: 38: 19.000Z,
+      errorCode: null,
+      priceUnit: 'USD',
+      apiVersion: '2010-04-01',
+      subresourceUris: {
+        media: '/2010-04-01/Accounts/ACc70f7e642e060d7041965af62b01ae58/Messages/SM162e8c9410f28c753fd3a03cf5c2cf2d/Media.json',
+        feedback: '/2010-04-01/Accounts/ACc70f7e642e060d7041965af62b01ae58/Messages/SM162e8c9410f28c753fd3a03cf5c2cf2d/Feedback.json'
+        }
+    },
+    {
+      body: 'El menu de opciones es el siguiente: \n' +
+        'Opción #0: \n' +
+        'Nombre: perra \n' +
+        ' Descrpipción: muy ricas!! \n' +
+        ' Precio: 20000 \n' +
+        '_____________________Elige el id de la opcion que vayas a elegir.',
+      numSegments: '1',
+      direction: 'outbound-api',
+      from: 'whatsapp:+14155238886',
+      to: 'whatsapp:+573005762320',
+      dateUpdated: 2024-01-22T01: 29: 16.000Z,
+      price: '0.00000',
+      errorMessage: null,
+      uri: '/2010-04-01/Accounts/ACc70f7e642e060d7041965af62b01ae58/Messages/SM3924082abb9811ec9159a11f4c2407ec.json',
+      accountSid: 'ACc70f7e642e060d7041965af62b01ae58',
+      numMedia: '0',
+      status: 'read',
+      messagingServiceSid: null,
+      sid: 'SM3924082abb9811ec9159a11f4c2407ec',
+      dateSent: 2024-01-22T01: 29: 14.000Z,
+      dateCreated: 2024-01-22T01: 29: 14.000Z,
+      errorCode: null,
+      priceUnit: 'USD',
+      apiVersion: '2010-04-01',
+      subresourceUris: {
+        media: '/2010-04-01/Accounts/ACc70f7e642e060d7041965af62b01ae58/Messages/SM3924082abb9811ec9159a11f4c2407ec/Media.json',
+        feedback: '/2010-04-01/Accounts/ACc70f7e642e060d7041965af62b01ae58/Messages/SM3924082abb9811ec9159a11f4c2407ec/Feedback.json'
+        }
+    }
+]
