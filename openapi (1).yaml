@@ -38,6 +38,7 @@ paths:
       - pet
       summary: Update an existing pet
       operationId: updatePet
+      x-apidog-folder: "Pet Store/Pet Information"
       requestBody:
         description: Pet object that needs to be added to the store
         content:
